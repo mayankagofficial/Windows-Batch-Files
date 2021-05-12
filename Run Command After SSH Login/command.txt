@@ -1,0 +1,1 @@
+ssh -t <user>@<ip> "<command or commands you need to execute> ; /bin/bash"
